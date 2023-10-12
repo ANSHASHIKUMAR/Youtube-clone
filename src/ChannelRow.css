@@ -1,0 +1,37 @@
+.channelRow {
+    display:flex;
+    align-items:center;
+    width:70%;
+    height:150px;
+    margin-bottom:-30px;
+}
+.channelRow_text {
+    display:flex;
+    flex-direction:column;
+    margin-top:-10px;
+    line-height:14px;
+}
+
+.channelRow_text > p {
+    color:#606060;
+    font-size:small !important;
+}
+#views_subs{
+    margin-top:-20px;
+}
+#view_subs{
+    margin-top:-10px;
+}
+.channelRow_logo {
+    height:100px !important;
+    width:100px !important;
+    margin-top:-40px;
+    margin-left:60px;
+    margin-right:40px;
+} 
+.channelRow_text > h4 {
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-top:-10px;
+}
